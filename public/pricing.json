@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": "$29.99/month",
+    "img": "https://i.ibb.co/9ZTgLf3/mark-bertulfo-XKim-W0pke6w-unsplash.jpg",
+    "features": [
+      "Access to cardio and weight equipment",
+      "Unlimited gym access during operating hours",
+      "Locker room and shower facilities",
+      "Complimentary towel service",
+      "Access to fitness classes (limited)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": "$49.99/month",
+    "img": "https://i.ibb.co/4WvszJh/rodrigo-s-2mz9-IKab7-DE-unsplash.jpg",
+    "features": [
+      "All Basic Membership features",
+      "Unlimited access to group fitness classes",
+      "2 personal training sessions/month",
+      "Sauna and steam room access",
+      "Complimentary nutritional consultation"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "VIP Membership",
+    "price": "$79.99/month",
+    "img": "https://i.ibb.co/yRP7JNh/ryan-de-hamer-p-CT8ag1o3n-U-unsplash.jpg",
+    "features": [
+      "All Premium Membership features",
+      "24/7 gym access",
+      "Unlimited personal training sessions",
+      "Access to premium fitness equipment",
+      "Complimentary smoothie bar access"
+    ]
+  }
+]
